@@ -1,6 +1,3 @@
-## Sobre o Projeto
-
-Repositório que reuni os módulos 5 e 6 da trilha Desenvolvimento IA 2023, desenvolvido pela Rocketseat Education.
 
 ### Fundamentos de Aprendizado de Máquina
 
